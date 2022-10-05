@@ -17,7 +17,7 @@
             <form action = "Principal">
                 <div class="form-group">
                     <img src="https://thumbs.dreamstime.com/b/plantilla-del-logotipo-hospital-117487677.jpg" hidden="80" width="80" />
-                    <p><strong>Bienvenido al Sistema de Login de DYLAN</strong></p>
+                    <p><strong>Bienvenido al Sistema del hospital</strong></p>
                 </div>
                 <div class="form-group">
                     <label>Nombres:</label>
